@@ -1,2 +1,2 @@
 # DataStructure1
-자료구조1
+스택, 큐, 리스트
